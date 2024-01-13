@@ -8,7 +8,6 @@ This repository provides a simple example of how to perform image scraping from 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -26,5 +25,12 @@ Before you begin, ensure you have the following prerequisites installed on your 
 pip install -r requirements.txt
 
 ## Usage
+
+Run 
+python app.py
+
+## License
+
+MIT
 
 
